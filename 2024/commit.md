@@ -1,8 +1,10 @@
 # 2024 练习
 
 ## CGW
+
     你好我是帅哥
     version: 1.0
+
 ## YQH
 
 ## LXL
@@ -12,6 +14,7 @@ haha hahahahahahahahaha
 hahahahahahahhahaha
 
 ## DHY
+
     dajiodchbh
     4563547
     fdgfdcs
@@ -24,15 +27,20 @@ hahahahahahahhahaha
 ## MQY
 
 ## MNK
+
     时代少年团，我们喜欢你！！
     我们喜欢马嘉祺，丁晨希
+
 ## CYR
+
 嗯 嗯 嗯 嗯 嗯 嗯 嗯~
+
 ## HYX
-   hhhhhhh
-   如果爱忘了  泪不想落下
-   就让这大雨全部落下~
-   我听见雨滴落在青青草地
+
+hhhhhhh
+如果爱忘了 泪不想落下
+就让这大雨全部落下~
+我听见雨滴落在青青草地
 
 ## LWT
 
@@ -61,3 +69,4 @@ hahahahahahahhahaha
 hello github
 hello world
 hello git
+
